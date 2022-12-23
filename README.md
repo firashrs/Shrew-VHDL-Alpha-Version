@@ -1,4 +1,10 @@
 # Shrew-VHDL
+
+
+<p align="center">
+<img src="logo.png" alt="drawing" width="200"/>
+</p>
+
 the Alpha version of **Shrew VHDL**: A free open-source **VHDL IDE** for **Windows** (for now). I've been working on this project for the past couple of months and I'm happy that it is starting to take shape.
 
 <p align="center">
